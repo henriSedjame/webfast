@@ -1,4 +1,4 @@
-module github.com/hsedjame/webfast
+module github.com/henriSedjame/webfast
 
 go 1.18
 
